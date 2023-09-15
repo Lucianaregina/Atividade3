@@ -1,1 +1,4 @@
-# Atividade1
+*Italico*
+**Negrito**
+~~Riscado~~
+~~**Misturar**~~
